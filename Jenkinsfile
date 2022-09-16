@@ -21,7 +21,7 @@ pipeline {
         
         stage('DEPLOYING THE APPLICATION ON SERVERS') {
             steps {
-                echo "Deployment in Test Levels"
+                echo "Deployment in Test Levels L1 L2 L3 L4"
             }
         }
         
